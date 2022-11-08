@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Valutac**
 
-- 🌱 I’m currently learning **Python, Flutter and Kotlin**
-
 - 👯 I’m looking to collaborate on **Front-End and Back-End Projects**
 
 - 📫 How to reach me: **andifirwansyah091@gmail.com**
