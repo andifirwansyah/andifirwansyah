@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React Native (and a beginner designer) developer</h3>
 
 - 🔭 I’m currently working on **Valutac**
-- 🌱 I’m currently learning Go & Django Framework
+- 🌱 I’m currently learning **Go** & **Django Framework**
 - 👯 I’m looking to collaborate on **Front-End and Back-End Projects**
 
 - 📫 How to reach me: **andifirwansyah091@gmail.com**
